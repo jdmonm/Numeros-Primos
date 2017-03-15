@@ -19,7 +19,9 @@ public class Primos {
         boolean aux = false;
         
         for(int i=2; i<=100;i++){
-            
+            for(int o=2;o<i;o++){
+                
+            }
         }
     }
 }
