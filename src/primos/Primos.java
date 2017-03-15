@@ -24,6 +24,9 @@ public class Primos {
                     aux=true;
                 }
             }
+            if(aux==false){
+                System.out.println(i);
+            }
         }
     }
 }
