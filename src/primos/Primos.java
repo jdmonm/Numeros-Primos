@@ -20,7 +20,9 @@ public class Primos {
         
         for(int i=2; i<=100;i++){
             for(int o=2;o<i;o++){
-                
+                if(i%o==0){
+                    aux=true;
+                }
             }
         }
     }
