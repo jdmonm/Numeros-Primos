@@ -16,6 +16,6 @@ public class Primos {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        boolean aux = false;
     }
-    
 }
