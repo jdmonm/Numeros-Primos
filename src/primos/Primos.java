@@ -27,6 +27,7 @@ public class Primos {
             if(aux==false){
                 System.out.println(i);
             }
+            aux=false;
         }
     }
 }
